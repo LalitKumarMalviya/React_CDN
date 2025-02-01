@@ -1,0 +1,11 @@
+#heading {
+    color: hsl(0, 92%, 47%);
+}
+
+#childOne {
+    color: blueviolet;
+}
+
+#childTwo {
+    color: rgb(237, 53, 139);
+}
